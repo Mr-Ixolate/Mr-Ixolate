@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @Mr-Ixolate
-- 👀 I’m interested in data scienc and built environment
+- 👀 I’m interested in data science and built environment
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

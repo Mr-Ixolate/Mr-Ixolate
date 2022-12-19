@@ -1,8 +1,7 @@
-# 👋 Hi, I’m @Mr-Ixolate
-- 👀 I’m interested in data science and built environment
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello there
+- I’m interested in data science and sustainability
+- I’m currently learning python and data science
+- You can reach me via an arcane ritual and sacrificing an egg
 
 <!---
 Mr-Ixolate/Mr-Ixolate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

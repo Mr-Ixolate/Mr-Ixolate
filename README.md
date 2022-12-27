@@ -1,7 +1,7 @@
 # Hello there
 - I’m interested in data science and sustainability
-- I’m currently learning python and data science
-- You can reach me via an arcane ritual and sacrificing an egg
+- Currently learning python and data science and a few other bits and pieces
+- You can reach me by performing an arcane ritual and sacrificing a small egg
 
 <!---
 Mr-Ixolate/Mr-Ixolate is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

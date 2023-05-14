@@ -1,6 +1,6 @@
 # Hello there
 - I’m interested in data science and sustainability
-- Currently learning python and data science and a few other bits and pieces
+- Currently learning python data science and a few other bits and pieces
 - You can reach me by performing an arcane ritual and sacrificing a small egg
 
 ## Observe my Incredible Porfolio:

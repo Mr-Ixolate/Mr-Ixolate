@@ -1,6 +1,7 @@
 # Hello there
 - I’m interested in data science and sustainability
 - Currently learning python data science and a few other bits and pieces
+- Working on a small discord bot using discord.py (I keep running into things I didn't realise were going to be problems or that are better but will need me to re-write large chunks of code)
 - You can reach me by performing an arcane ritual and sacrificing a small egg
 
 ## Observe my Incredible Porfolio:
